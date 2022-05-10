@@ -18,6 +18,6 @@ class NewKlass{
     }
 }
 
-let collect1 = new NewKlass()
+let collect1 = new NewKlass()//
 
 collect1.bay()
